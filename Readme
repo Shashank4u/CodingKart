@@ -1,0 +1,28 @@
+Project Description:
+
+This project is a web application that allows users to register, login, and manage properties. Users can perform the following actions:
+
+Registration and Login: Users can create an account and securely log in to the system.
+Property Management: Users can add new properties to the system, view a list of their properties, and edit/update property details as needed.
+Property Listings: Users can view a list of properties added by themselves and other users.
+Search Functionality: The application includes a search feature that allows users to find specific properties based on criteria such as location, type, and price.
+Technologies Used:
+
+Frontend: HTML, CSS, JavaScript, jQuery
+Backend: PHP
+Database: MySQL
+Key Features:
+
+User authentication and authorization system
+CRUD operations for property management
+Responsive design for optimal viewing on various devices
+Integration of jQuery for form validation and enhanced user experience
+How to Use:
+
+Clone the repository to your local machine.
+Set up the database using the provided SQL file.
+Configure the database connection in the appropriate PHP files.
+Host the application on a web server or use a local development environment.
+Access the application through a web browser and start exploring its features.
+Contributing:
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
